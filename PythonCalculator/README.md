@@ -1,4 +1,4 @@
-This Calculator is made using Tkinter in Python.
+This Calculator is made using Python Programming Language(specifically Tkinter in Python).
 
 
 
