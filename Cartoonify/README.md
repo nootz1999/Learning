@@ -1,6 +1,8 @@
 Cartoonifying an Image using Python's opencv library.
 
+![Result](https://github.com/nootz1999/Learning/blob/main/Cartoonify/cartoon5.png)
 
+![Result](https://github.com/nootz1999/Learning/blob/main/Cartoonify/cartoon6.png)
 
 ![Result](https://github.com/nootz1999/Learning/blob/main/Cartoonify/cartoon1.png)
 
