@@ -7,4 +7,4 @@ A Desktop Notification to remind me to drink water after every one hour.
 
 
 
-`IGNORE THAT "Activate Windows" IN THE BACKGROUND THAT'S PERMANENT TO MY LAPTOP.`
+`Ignore that "Activate Windows" in the Background that's permanent to my Laptop.`
